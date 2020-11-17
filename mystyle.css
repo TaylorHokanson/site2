@@ -1,0 +1,22 @@
+body {
+  background-color: lightblue;
+  display: flex;
+  justify-content: center;
+}
+
+h1 {
+  color: #4c8e31;
+  margin-left: 20px;
+}
+
+#wrapper {
+  position: relative;
+  width: 500px;
+  top: 50px;
+}
+
+#cheeseburger {
+  padding: 15px;
+  margin-bottom: 15px;
+  background: #FFF;
+}
